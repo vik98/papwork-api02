@@ -10,6 +10,8 @@ Databases hosted on mlab.
 
 Link to database included in the config file. 
 
+Check localhost:3000/auth/add for adding the form to your authenticated user.
+
 # Installation
 
 npm install
